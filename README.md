@@ -1,4 +1,4 @@
-# \# Распоред на испити
+# \#Распоред на испити
 
 # 
 
@@ -6,5 +6,5 @@
 
 # 
 
-# !\[Demo](Screenshots and Video/demo.gif)
+# !\[App Demo](Screenshots%20and%20Video/demo.gif)
 
