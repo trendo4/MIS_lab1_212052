@@ -5,5 +5,8 @@
 
 # 
 
-!\[App Demo](screenshots/demo.gif)
+<p align="center">
+  <img src="screenshots/demo.gif" alt="Flutter app demo" width="400">
+</p>
+
 
